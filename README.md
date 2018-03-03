@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
 <img src="https://raw.githubusercontent.com/lucasvenez/RQL2SQL/images/rql-logo.png"/>
 </p>
 
@@ -47,3 +47,5 @@ and in RQL as:
 [2] [C.J. Date. Introduction to Database Systems, 8th edition. 2003. ISBN: 978-0321197849.](http://dl.acm.org/citation.cfm?id=861613&CFID=615788245&CFTOKEN=38751876)
 
 [3] Dérick Welman. Towards a Purely Relational Query Language: comparison between the structured and relational query languages (portuguese). Graduation Thesis. Supervisor: Lucas Venezian Povoa. 2016.
+
+Larissa is starting a great contribution to this repository.
